@@ -1,0 +1,18 @@
+{
+  "extract": {
+    "which": ["all"],
+    "bots": ["all"],
+    "sort_keys": true,
+    "indent": 4
+  },
+  "exec": {
+    "bots": ["all"],
+    "indent": 4
+  },
+  "eval": {
+    "which": ["all"],
+    "bots": ["all"],
+    "sort_keys": true,
+    "indent": 4
+  }
+}

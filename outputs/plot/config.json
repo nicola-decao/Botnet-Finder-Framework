@@ -1,0 +1,10 @@
+{
+  "total-metrics-bars": {
+    "which": "all",
+    "bots": "all"
+  },
+  "metrics-bars": {
+    "which": "all",
+    "bots": "all"
+  }
+}
